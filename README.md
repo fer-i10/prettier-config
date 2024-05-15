@@ -1,13 +1,13 @@
-# `@azz/prettier-config`
+# `@lawallet/prettier-config`
 
-> My personal [Prettier](https://prettier.io) config.
+> LaWallet [Prettier](https://prettier.io) shared config.
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ pnpm add --dev @lawallet/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@lawallet/prettier-config"
 }
 ```
