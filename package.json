@@ -1,0 +1,9 @@
+{
+  "name": "@lawallet/prettier-config",
+  "version": "1.0.0",
+  "description": "LaWallet Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:lawalletio/prettier-config.git",
+  "author": "La Crypta Labs",
+  "license": "MIT"
+}
